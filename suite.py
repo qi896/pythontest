@@ -1,6 +1,6 @@
 import sys
-sys.path.append("C:\\Users\\Administrator\\PycharmProjects\\untitled1")
-sys.path.append("C:\\Users\\Administrator\\PycharmProjects\\untitled1\\venv\\Lib\\site-packages\\BeautifulReport")
+#sys.path.append("C:\\Users\\Administrator\\PycharmProjects\\untitled1")
+#sys.path.append("C:\\Users\\Administrator\\PycharmProjects\\untitled1\\venv\\Lib\\site-packages\\BeautifulReport")
 import unittest
 from jmeter.test import *
 from BeautifulReport import BeautifulReport
